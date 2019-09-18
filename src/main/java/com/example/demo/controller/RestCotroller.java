@@ -15,5 +15,11 @@ public class RestCotroller {
     public String say(){
     return coonfigProperties.getUsername()+"-"+coonfigProperties.getPassword()+"-"+ coonfigProperties.getAaa();
     }
+   
+   
+    @GetMapping("say1")
+    public String say1(){
+    return coonfigProperties.getUsername()+"-"+coonfigProperties.getPassword()+"-"+ coonfigProperties.getAaa();
+    }
 
 }
