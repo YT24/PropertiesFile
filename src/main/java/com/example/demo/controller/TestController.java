@@ -13,5 +13,15 @@ public class TestController {
     public String say(){
     return "";
     }
+  
+   public String say1(){
+    return "";
+    }
+
+  
+   public String say2(){
+    return "";
+    }
+
 
 }
