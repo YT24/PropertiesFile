@@ -1,4 +1,4 @@
-package com.example.demo.common;
+package com.example.demo.bean;
 
 import lombok.Data;
 import org.springframework.beans.factory.annotation.Value;
