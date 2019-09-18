@@ -13,12 +13,5 @@ public class TestController {
         return "";
     }
 
-    public String say1() {
-        return "";
-    }
 
-
-    public String say2() {
-        return "";
-    }
 }
